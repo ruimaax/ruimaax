@@ -26,8 +26,12 @@
 
 ###
 
-<p align="left">I'm a **developer & entrepreneur** from **Ceuta, Spain** 🇪🇸<br><br>- 🔭 I'm working as a **developer at Cámara de Comercio** and co-running **Última Tirada**, a TCG store, association & content channel<br>- 📚 I'm currently studying **Computer Engineering (Ingeniería Informática)** at UGR + **DAW** vocational degree<br>- ⚡ In my free time I play **Magic: The Gathering**, stream on Twitch, create MTG content on YouTube, and build side projects</p>
+<p align="left">
+Hi, I'm a software developer from Spain.
 
+💻 Software developer from Spain 🇪🇸, focused on useful digital products ✨.
+I build web platforms 🌐, mobile apps 📱, and backend systems 🗄️.
+Currently learning Next.js 📚, co-running Última Tirada 🎲, and building an agency 🏢
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
